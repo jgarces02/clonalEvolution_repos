@@ -1,2 +1,9 @@
 # clonalEvolution_repos
 Some software about clonal evolution in cancer (to test!)
+- scg: https://github.com/shahcompbio/scg
+- fishplot: https://github.com/chrisamiller/fishplot
+- TitanCNA: https://github.com/gavinha/TitanCNA
+- timescape: https://github.com/shahcompbio/timescape
+- mapscape: https://github.com/shahcompbio/mapscape
+- citup: https://github.com/amcpherson/citup
+- pyclone: https://github.com/aroth85/pyclone
